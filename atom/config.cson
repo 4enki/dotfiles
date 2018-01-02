@@ -1,0 +1,56 @@
+"*":
+  "atom-package-deps":
+    ignored: [
+      "linter-ui-default"
+    ]
+  autosave:
+    enabled: true
+  core:
+    customFileTypes:
+      "source.css.stylus": [
+        "sss"
+      ]
+      "text.html.basic": [
+        "ep"
+      ]
+    disabledPackages: [
+      "atom-typescript"
+      "Stylus"
+      "language-postcss"
+      "linter"
+      "linter-ui-default"
+    ]
+    followSymlinks: false
+    ignoredNames: [
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "*.codekit"
+      ".codekit-cache"
+      ".git"
+      "node_modules"
+    ]
+    telemetryConsent: "no"
+    titleBar: "hidden"
+  editor:
+    fontSize: 15
+    showInvisibles: true
+    softWrap: true
+  "exception-reporting":
+    userId: "112f29b2-f64b-31ea-0fd8-950c32f11bbe"
+  linter: {}
+  "linter-ui-default":
+    panelHeight: 69
+    showPanel: true
+  "tree-view":
+    focusOnReveal: false
+    hideIgnoredNames: true
+    squashDirectoryNames: true
+  welcome:
+    showOnStartup: false
+".css.source.stylus":
+  editor:
+    autoIndentOnPaste: true
+    nonWordCharacters: "/\\()\"',.;<>~!@#$%^&*|+=[]{}`?-…"
