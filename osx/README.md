@@ -1,3 +1,9 @@
+# Initial setup
+
+```bash
+bash -c "`curl -L https://raw.githubusercontent.com/4enki/dotfiles/master/osx/Install.sh`"
+```
+
 ## Applications list
 
 * Помидорко.app
