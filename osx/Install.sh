@@ -27,6 +27,7 @@ installcask slack
 # browsers
 installcask google-chrome
 installcask opera
+installcask yandex
 installcask firefox
 installcask firefoxdeveloperedition
 
