@@ -12,6 +12,7 @@ packages=(
   'language-postcss'
   'linter'
   'minimap-linter'
+  'prettier-atom'
 )
 
 for package in "${packages[@]}"

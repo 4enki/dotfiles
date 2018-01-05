@@ -13,10 +13,11 @@
 - [language-postcss](https://atom.io/packages/language-postcss)
 - [linter](https://atom.io/packages/linter)
 - [minimap-linter](https://atom.io/packages/minimap-linter)
+- [prettier-atom](https://atom.io/packages/prettier-atom)
 
 ## Themes:
 
-- `atom-material-ui`
+
 
 ## Font:
 
