@@ -14,7 +14,6 @@
         "ep"
       ]
     disabledPackages: [
-      "atom-typescript"
       "Stylus"
       "language-postcss"
       "linter"
@@ -35,7 +34,8 @@
     telemetryConsent: "no"
     titleBar: "hidden"
   editor:
-    fontSize: 15
+    fontFamily: "Fira Code"
+    fontSize: 16
     showInvisibles: true
     softWrap: true
   "exception-reporting":
@@ -44,6 +44,10 @@
   "linter-ui-default":
     panelHeight: 69
     showPanel: true
+  minimap:
+    plugins:
+      linter: true
+      linterDecorationsZIndex: 0
   "tree-view":
     focusOnReveal: false
     hideIgnoredNames: true
