@@ -1,0 +1,5 @@
+{
+  "stylus.valueSeparator": ": ",
+  "filter.commentBefore" : "<!-- begin <%= attr('id', '#') %><%= attr('class', '.') %> -->\n",
+  "filter.commentAfter"  : "\n<!-- end <%= attr('id', '#') %><%= attr('class', '.') %> -->"
+}
